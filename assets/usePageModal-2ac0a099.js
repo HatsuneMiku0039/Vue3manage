@@ -1,0 +1,1 @@
+import{r as c}from"./index-f50cefe7.js";function n(o,i){const l=c();function f(){var a;(a=l.value)==null||a.setDialogModal(),o&&o()}function r(a){var e;(e=l.value)==null||e.setDialogModal(!1,a),i&&i(a)}return{pageModalRef:l,handlerNewClick:f,handlerEditClick:r}}export{n as u};

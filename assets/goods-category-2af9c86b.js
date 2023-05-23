@@ -1,1 +1,0 @@
-import{a0 as e,o as s,g as t,a5 as a,a6 as c,a1 as _}from"./index-f94ac9b9.js";const d={},n=o=>(a("data-v-7924b183"),o=o(),c(),o),r={class:"goods-category"},p=n(()=>_("h2",null,"goods-category",-1)),g=[p];function i(o,l){return s(),t("div",r,g)}const u=e(d,[["render",i],["__scopeId","data-v-7924b183"]]);export{u as default};
